@@ -1,5 +1,5 @@
 # MapsJava-master
- Android Projects Course Materials
+ Android Projects Course 
  
  - Saving last position
  - Adding positions like notebook notes.
