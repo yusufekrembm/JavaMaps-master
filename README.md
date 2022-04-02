@@ -1,5 +1,7 @@
 # MapsJava-master
- Android Projects Course 
+Android Projects Udemy Course 
+ 
+ - This project was made by cloning from the udemy java kotlin course.
  
  - Saving last position
  - Adding positions like notebook notes.
